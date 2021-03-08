@@ -1,12 +1,12 @@
 
 
-![](https://komarev.com/ghpvc/?username=Raj2503&color=green)
+![](https://komarev.com/ghpvc/?username=Raj2503&color=blue)
 
 ### Hi there 👋
 
  
 Hi, I'm Raj Aryan Sophomore at IIIT Nagpur.
-
+To know about me, visit - https://raj2503.github.io/ .
  <br/>
   <br/>
 📫 How to reach me: ...
