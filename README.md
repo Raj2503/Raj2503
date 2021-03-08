@@ -11,7 +11,7 @@ Hi, I'm Raj Aryan Sophomore at IIIT Nagpur.
   <br/>
 📫 How to reach me: ...
  <br/>
-  <br/>
+
 <a href="https://www.linkedin.com/in/raj-aryan-2503/">
   <img align="left" alt="Raj's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
