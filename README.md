@@ -9,8 +9,11 @@
  
 Hi, I'm Raj Aryan Sophomore at IIIT Nagpur.
 
-
+ <br/>
+  <br/>
 📫 How to reach me: ...
+ <br/>
+  <br/>
 <a href="https://www.linkedin.com/in/raj-aryan-2503/">
   <img align="left" alt="Raj's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -18,7 +21,6 @@ Hi, I'm Raj Aryan Sophomore at IIIT Nagpur.
 <a href="https://codeforces.com/profile/raj_2503">
   <img align="left" alt="Raj's Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
 </a>
-
 -->
 <a href="https://www.instagram.com/__raj.aryan__/">
   <img align="left" alt="Raj's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
