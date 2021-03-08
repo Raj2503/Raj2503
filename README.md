@@ -4,25 +4,26 @@
 
 ### Hi there 👋
 
+ <br/>
+  <br/>
+ 
+Hi, I'm Raj Aryan Sophomore at IIIT Nagpur.
+
+
+📫 How to reach me: ...
 <a href="https://www.linkedin.com/in/raj-aryan-2503/">
   <img align="left" alt="Raj's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <!--  
-<a href="https://codeforces.com/profile/Raj2503">
-  <img align="left" alt="Raj's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
+<a href="https://codeforces.com/profile/raj_2503">
+  <img align="left" alt="Raj's Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
 </a>
-<a href="https://leetcode.com/Raj2503/">
-  <img align="left" alt="Raj's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>  
+
 -->
 <a href="https://www.instagram.com/__raj.aryan__/">
   <img align="left" alt="Raj's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
- <br/>
-  <br/>
- 
-Hi, I'm Raj Aryan Sophomore at IIIT Nagpur.
 
  <br/>
   <br/>
@@ -42,7 +43,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
