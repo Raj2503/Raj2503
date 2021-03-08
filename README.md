@@ -6,8 +6,6 @@
 
  
 Hi, I'm Raj Aryan Sophomore at IIIT Nagpur.
-
- <br/>
   <br/>
 📫 How to reach me: ...
  <br/>
