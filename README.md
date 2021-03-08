@@ -4,8 +4,6 @@
 
 ### Hi there 👋
 
- <br/>
-  <br/>
  
 Hi, I'm Raj Aryan Sophomore at IIIT Nagpur.
 
