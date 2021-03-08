@@ -23,8 +23,10 @@ Hi, I'm Raj Aryan Sophomore at IIIT Nagpur.
 <a href="https://www.instagram.com/__raj.aryan__/">
   <img align="left" alt="Raj's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-  
+
+
  <br/>
+  <br/>
   <br/>
 <a href="https://github.com/Raj2503/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Raj2503&count_private=true&show_icons=true&include_all_commits=true" alt="Raj's github stats" />
