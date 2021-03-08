@@ -5,7 +5,7 @@
 ### Hi there 👋
 
  
-Hi, I'm Raj Aryan Sophomore at IIIT Nagpur.
+Hi, I'm Raj Aryan Sophomore at IIIT Nagpur.  
 To know about me, visit - https://raj2503.github.io/ .
  <br/>
   <br/>
