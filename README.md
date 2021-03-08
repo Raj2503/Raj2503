@@ -21,7 +21,7 @@
  <br/>
   <br/>
  
-Hi, I'm Raj Khandelwal pre-final year IT student at BIT Mesra    
+Hi, I'm Raj Aryan pre-final year IT student at BIT Mesra    
 
 
  <br/>
