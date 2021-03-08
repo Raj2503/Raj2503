@@ -30,7 +30,7 @@ To know about me, visit - https://raj2503.github.io/ .
   <br/>
   <br/>
 <a href="https://github.com/Raj2503/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Raj2503&count_private=true&show_icons=true&include_all_commits=true" alt="Raj's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Raj2503&hide=contribs&count_private=true&show_icons=true&include_all_commits=true" alt="Raj's github stats" />
 </a>     
 <br/><br/><br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raj2503&hide=jupyter notebook&layout=compact" alt="Raj" />
