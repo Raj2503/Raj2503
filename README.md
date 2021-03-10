@@ -7,7 +7,7 @@
  
 Hi, I'm Raj Aryan, Sophomore at IIIT Nagpur.  
 To know about me, visit - https://raj2503.github.io/ .  
-(Keep in mind the webpage is still under development and isn't fully responsive yet :sweat_smile: . A commit might be on its way to fix it ;))
+(Keep in mind the webpage is still under development and isn't fully responsive yet :sweat_smile:. A commit might be on its way to fix it :wink:).
  <br/>
   <br/>
 📫 How to reach me: ...
