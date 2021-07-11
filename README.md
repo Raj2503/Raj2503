@@ -30,6 +30,8 @@ To know about me, visit - https://raj2503.github.io/ .
  <br/>
   <br/>
   <br/>
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Raj2503&theme=graywhite&hide_border=true)](https://git.io/streak-stats)
+  
 <a href="https://github.com/Raj2503/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Raj2503&hide=contribs&count_private=true&show_icons=true&include_all_commits=true" alt="Raj's github stats" />
 </a>     
@@ -37,9 +39,8 @@ To know about me, visit - https://raj2503.github.io/ .
 <a href="https://github.com/Raj2503/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raj2503&hide=jupyter notebook&layout=compact" alt="Raj" />
 </a> 
-<centre>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Raj2503&theme=graywhite&hide_border=true)](https://git.io/streak-stats)
- </centre>
+
+
 <!--
 **Raj2503/Raj2503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
