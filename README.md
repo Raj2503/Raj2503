@@ -38,7 +38,7 @@ To know about me, visit - https://raj2503.github.io/ .
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raj2503&hide=jupyter notebook&layout=compact" alt="Raj" />
 </a> 
 
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Raj2503&theme=graywhite)](https://git.io/streak-stats)
 <!--
 **Raj2503/Raj2503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
