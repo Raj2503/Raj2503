@@ -5,9 +5,12 @@
 ### Hi there 👋
 
  
-Hi, I'm Raj Aryan, Computer Science Student at IIIT Nagpur'23.  
+Hi, I'm Raj Aryan, Computer Science Student at IIIT Nagpur'23. I am an Ex SDE Intern @Zomato and GDSC Android Lead'22.  
+
+Professional Account - [@RajjjAryan](https://github.com/RajjjAryan).
+
 To know about me, visit - https://raj2503.github.io/ .  
-(Keep in mind the webpage is still under development and isn't fully responsive yet :sweat_smile:. A commit might be on its way to fix it :wink:).
+(Keep in mind the webpage is not functioning as excepted due to deprecated bootstrap modules. A commit might be on its way to fix it :wink:).
  <br/>
   <br/>
 📫 How to reach me: ...
@@ -22,7 +25,7 @@ To know about me, visit - https://raj2503.github.io/ .
   <img align="left" alt="Raj's Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
 </a>
 -->
-<a href="https://www.instagram.com/__raj.aryan__/">
+<a href="https://www.instagram.com/raajj.aryan/">
   <img align="left" alt="Raj's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
