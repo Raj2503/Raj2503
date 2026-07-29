@@ -1,88 +1,25 @@
-## Hey 👋, I'm Raj Aryan!  
-  
+# Raj Aryan
 
-<a href="https://github.com/RajjjAryan" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/raj-aryan-2503" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/raajj.aryan" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-  
+**Backend engineer and open-source builder.** I work on distributed systems, high-throughput APIs, search and reliability—and use this account for public projects, experiments and small products.
 
+[Portfolio](https://raj2503.github.io/) · [Professional GitHub](https://github.com/RajjjAryan) · [LinkedIn](https://www.linkedin.com/in/raj-aryan-2503/) · [Engineering writing](https://medium.com/@Rajjj)
 
+## Open-source work
 
-### Glad to see you here!  
-_I write poetry.
-It works, it's stable,
-scalable, and was done in record time._
+- [Vintage Pacman in Flutter](https://github.com/Raj2503/Pacman-Flutter) — a mobile Pacman game with 66 stars and 25 forks at the last portfolio review; [featured by Flutter Awesome](https://flutterawesome.com/vintage-pacman-game-developed-in-flutter/).
+- [Hindi Text-to-Speech](https://github.com/Raj2503/Python-Text-To-Speech-Hindi) — a phoneme-database approach to Hindi text-to-speech, shared as a public Python project.
+- [Tic-Tac-Toe in Flutter](https://github.com/Raj2503/Tic-Tac-Toe-Flutter) — a playful Flutter game with an optional Spotify integration.
 
-For a long time now, it has been me and my mug of coffee sitting together coding and learning new stuff. To start about me, I am a Computer Science Engineering underGrad from IIIT Nagpur with keen interest in Backend Development. My skill set comprises of PHP, GoLang, SQL, Python and somewhat Android development (:P). I have some projects in all of the skills I mentioned. But, where do I showcase all my projects? That's why portfolios are made for!!
+## Engineering focus
 
-So, if you are wondering what is page is all about, it's my Portfolio. If that interests you, ping me and we can have a connect ;) 
+The professional account, [RajjjAryan](https://github.com/RajjjAryan), covers production backend work and writing on retries, reliability, search infrastructure and performance. Start with the [portfolio](https://raj2503.github.io/) for selected systems work and public technical notes.
 
-Portfolio Website - https://raj2503.github.io/
+## Contribution arcade
 
-Professional Github - [RajjjAryan](https://github.com/RajjjAryan).
-  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raj2503/Raj2503/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raj2503/Raj2503/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man playing through Raj Aryan's GitHub contribution graph" src="https://raw.githubusercontent.com/Raj2503/Raj2503/output/pacman-contribution-graph.svg">
+</picture>
 
-<br/>  
-
-<br/>  
-
-
-## Languages and Tools  
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="25" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="25" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
-<a href="https://www.elastic.co/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="25" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
-<a href="https://solr.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_solr-icon.svg" alt="Solr" height="25" /></a>  
-<a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="25" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" /></a>  
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="25" /></a>  
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="25" /></a>  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="25" /></a>  
-<a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="25" /></a>  
-<a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="25" /></a>  
-<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="25" /></a>  
-</div>  
-
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Raj2503&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raj2503&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=Raj2503&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
+<sub>Generated weekly from public GitHub contributions. The archive-game format is intentional: it is a small nod to the Pacman project above.</sub>
